@@ -4,4 +4,4 @@ a decent amount of researches pursued semantic segmentation tasks using RGB imag
 
 
 # Link to the thesis
-[Link]([https://website-name.com](https://pure.tue.nl/ws/portalfiles/portal/190685821/1279874_Du.pdf))
+[Link](https://pure.tue.nl/ws/portalfiles/portal/190685821/1279874_Du.pdf)
